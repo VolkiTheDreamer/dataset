@@ -1,0 +1,29 @@
+{
+    "columns":[
+        "Bolge",
+        "Yil",
+        "Satis"
+    ],
+    "data":[
+        [
+            "Akdeniz",
+            2020,
+            10
+        ],
+        [
+            "Marmara",
+            2020,
+            15
+        ],
+        [
+            "Akdeniz",
+            2021,
+            42
+        ],
+        [
+            "Marmara",
+            2021,
+            56
+        ]
+    ]
+}
