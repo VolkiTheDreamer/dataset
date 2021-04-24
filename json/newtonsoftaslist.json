@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Tarih": "2020-02-16T00:00:00",
+    "Duyuru": "Sizlerden gelen istek......\r\n"
+  },
+  {
+    "Id": 2,
+    "Tarih": "2019-12-11T00:00:00",
+    "Duyuru": "Udem..........\r\n"
+  },
+  {
+    "Id": 3,
+    "Tarih": "2019-01-01T00:00:00",
+    "Duyuru": "Konu sayfala......z."
+  },
+  {
+    "Id": 4,
+    "Tarih": "2020-01-01T00:00:00",
+    "Duyuru": "Yeni eklenen test ........"
+  },
+  {
+    "Id": 5,
+    "Tarih": "2020-02-25T00:00:00",
+    "Duyuru": "aaaaa bbbbb"
+  },
+  {
+    "Id": 6,
+    "Tarih": "2020-02-26T00:00:00",
+    "Duyuru": "Sayfalar ara......"
+  },
+  {
+    "Id": 7,
+    "Tarih": "2021-02-14T00:00:00",
+    "Duyuru": "Sayfa gccccc......"
+  }
+]
